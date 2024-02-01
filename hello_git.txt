@@ -1,0 +1,2 @@
+console.log("Iam a student at Akirachix)
+console.log("i am learning")
